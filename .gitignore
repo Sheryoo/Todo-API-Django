@@ -1,0 +1,4 @@
+env
+mainapp/__pycache__
+mainapp/migrations
+Todo/__pycache__
